@@ -1,0 +1,10 @@
+langchain
+langchain_community
+langchain_openai
+langchain_groq
+langchain_huggingface
+huggingface_hub
+python-dotenv
+pypdf
+faiss-cpu
+flask

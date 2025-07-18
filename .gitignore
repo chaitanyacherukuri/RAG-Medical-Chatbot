@@ -1,0 +1,9 @@
+venv/
+logs/
+Medcal_RAG_Chatbot.egg-info/
+.env
+__pycache__/
+app\__pycache__/
+app\components\__pycache__/
+app\config\__pycache__/
+app\common\__pycache__/
